@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-mongo-db-demo
+Implementation-Version: 1.0
+Built-By: System no 16
+Implementation-Vendor-Id: com.demo
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-mongo-db-demo
+Created-By: Maven Integration for Eclipse
+

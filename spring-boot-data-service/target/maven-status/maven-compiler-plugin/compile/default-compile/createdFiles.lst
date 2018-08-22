@@ -1,0 +1,6 @@
+com\demo\spring\JdbcConfig.class
+com\demo\spring\controller\EmpRestController.class
+com\demo\spring\SpringBootDataServiceApplication.class
+com\demo\spring\EmpRepository.class
+com\demo\spring\EmpDataAccess.class
+com\demo\spring\entity\Emp.class
